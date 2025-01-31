@@ -28,7 +28,7 @@ Follow these steps to set up and run the project:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/uniswap-token-marketplace.git
+git clone https://github.com/Shafekhan/uniswap-token-marketplace.git
 ```
 
 ### Install Dependencies
