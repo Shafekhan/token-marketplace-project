@@ -4,7 +4,7 @@ Building a Custom Token Swap Marketplace (Uniswap Exchange) using Next.js, Solid
 
 ## Project Overview
 
-![Project Screenshot] .\components\SVG\uniswap-token-marketplace.jpg
+![Project Screenshot] (./components/SVG/uniswap-token-marketplace.jpg)
 
 ### Key Features
 - **Token Swapping:** Enable users to swap any ERC20 tokens seamlessly.
